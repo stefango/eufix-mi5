@@ -10,5 +10,6 @@
 1. https://xiaoxx.cc/miui-eu/
 2. https://www.v2ex.com/t/394591
 3. https://gist.github.com/maboloshi/3316a78de3d9495387ff9d9050af010b
+4. https://bitbucket.org/superr/superrs-kitchen/src/master/
 
 ps: `eufix-force-fbe-oreo.zip` 此文件目前没有用过。
