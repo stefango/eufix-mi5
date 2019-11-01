@@ -7,12 +7,13 @@
 3. 若本仓库文件下载失败，可使用国内仓库：https://gitee.com/stefango/eufix-mi5
 
 ## 选读
-1. https://xiaoxx.cc/miui-eu/
-2. https://www.v2ex.com/t/394591
-3. https://gist.github.com/maboloshi/3316a78de3d9495387ff9d9050af010b
-4. https://bitbucket.org/superr/superrs-kitchen/src/master/
-5. https://www.gitmemory.com/issue/maboloshi/mipay-extract/4/482785362
-6. https://www.gitmemory.com/issue/maboloshi/mipay-extract/4/481607841
-7. https://gist.github.com/maboloshi/3316a78de3d9495387ff9d9050af010b
+1.  https://github.com/linusyang92/mipay-extract
+2. https://xiaoxx.cc/miui-eu/
+3. https://www.v2ex.com/t/394591
+4. https://gist.github.com/maboloshi/3316a78de3d9495387ff9d9050af010b
+5. https://bitbucket.org/superr/superrs-kitchen/src/master/
+6. https://www.gitmemory.com/issue/maboloshi/mipay-extract/4/482785362
+7. https://www.gitmemory.com/issue/maboloshi/mipay-extract/4/481607841
+8. https://gist.github.com/maboloshi/3316a78de3d9495387ff9d9050af010b
 
 ps: `eufix-force-fbe-oreo.zip` 此文件目前没有用过。
